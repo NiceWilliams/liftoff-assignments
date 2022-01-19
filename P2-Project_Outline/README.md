@@ -7,7 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-My project will be an event listing that will enable community members and small business owners the ability to promote and track events that they offer. It will grant users login capabilities, the ability to create, edit and delete particulars (e.g. title, description, location, time/date, etc.), also due to COVID-19 protocols members will be able to disclose what measures will be taken to ensure the saftey of staff and participants. 
+My project will be an event listing that will enable community members and small business owners the ability to promote and track events that they offer. It will grant users login capabilities, the ability to create, edit and delete particulars (e.g. title, description, location, time/date, etc.), also due to COVID-19 protocols members will be required to disclose what measures will be taken to ensure the saftey of staff and participants. 
 
 The motivation behind my project is an under resourced community that needs a way to access information about services and events offered locally.
 
